@@ -1,0 +1,7 @@
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\obj\Debug\GreetingCard.csproj.CoreCompileInputs.cache
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\obj\Debug\GreetingCard.csprojAssemblyReference.cache
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\bin\Debug\GreetingCard.dll.config
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\bin\Debug\GreetingCard.dll
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\bin\Debug\GreetingCard.pdb
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\obj\Debug\GreetingCard.dll
+C:\Users\rozen\Source\Repos\DP.COURSE.IDC.20A.EX3\A20 Ex03 Tamir 203999396 Tomer 312539158\GreetingCard\obj\Debug\GreetingCard.pdb
